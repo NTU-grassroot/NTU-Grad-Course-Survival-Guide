@@ -1,6 +1,6 @@
 # NTU-Grad-Course-Survival-Guide
 
-# TL;DR
+## TL;DR
 
 Share Your Wisdom (In Four Simple Steps)
 Head to the "Issues" tab at the top of this repository.
@@ -15,6 +15,7 @@ That's it! Your wisdom is now officially part of the collective.
 
 One quick reminder: Please be constructive, respectful, and keep it on topic. No personal attacks, no copyrighted material. Let's make this a helpful and friendly space for everyone.
 
+----
 
 Disclaimer: The Legal Mumbo Jumbo (Please Don't Sue Us)
 
