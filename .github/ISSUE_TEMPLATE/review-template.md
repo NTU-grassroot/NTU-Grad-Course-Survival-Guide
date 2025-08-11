@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: Review template
+about: if you want a template
 title: "[EE6xxxx]"
 labels: ''
 assignees: ''
