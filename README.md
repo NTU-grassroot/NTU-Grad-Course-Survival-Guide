@@ -1,5 +1,20 @@
 # NTU-Grad-Course-Survival-Guide
-a repo for the repo of graduate courses
+
+# TL;DR
+
+Share Your Wisdom (In Four Simple Steps)
+Head to the "Issues" tab at the top of this repository.
+
+Click the big green "New issue" button.
+
+Choose the "Course Review" template that magically appears. We've set it up with some easy questions to guide you.
+
+Fill it out and hit "Submit new issue."
+
+That's it! Your wisdom is now officially part of the collective.
+
+One quick reminder: Please be constructive, respectful, and keep it on topic. No personal attacks, no copyrighted material. Let's make this a helpful and friendly space for everyone.
+
 
 Disclaimer: The Legal Mumbo Jumbo (Please Don't Sue Us)
 
